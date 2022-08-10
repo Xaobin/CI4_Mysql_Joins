@@ -1,5 +1,6 @@
 <h2>CODEIGNITER 4</h2>
 <h2>Exemplos de MYSQL JOINS</h2>
+
 >INNER JOIN
 >LEFT JOIN
 >RIGHT JOIN

@@ -29,9 +29,14 @@ CREATE TABLE `tbl_courses` (
 
 **Instalação**
 <li>Substituir a pasta app original pela app disponível
-<li>Replace the original app with the available folder
 <li>Mudar o ENV para .env e realizar as mudanças padrão do framework
-<li>Make the default changes in the .env
 <li>Adicionar as tabelas ao banco de dados
-<li>Add the tables to the database
-* Relizar as mudanças necessárias em app/config/app.php e database.php
+<li>Relizar as mudanças necessárias em app/config/app.php e database.php
+
+ 
+ **Installation**
+ <li>Replace the original app with the available folder
+ <li>Make the default changes in the .env
+ <li>Add the tables to the database
+ <li>Do the necessaries changes in app/config/app.php and database.php 
+  
